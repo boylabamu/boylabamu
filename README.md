@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi 👋
 
-<!--
-**boylabamu/boylabamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
 
-Here are some ideas to get you started:
+## About Me
+I'm Prabowo Adi Pangestu, but you can call me Boy. Software Engineer - Mobile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+
+---
+
+🌟 Feel free to explore my repositories and get in touch!
